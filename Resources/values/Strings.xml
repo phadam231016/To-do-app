@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="buttonMain">Main</string>
+  <string name="buttonSetting">Setting</string>
+  <string name="buttonHistory">History</string>
+  <string name="buttonAddProject">Add Project</string>
+  <string name="ApplicationName">TaskAndContact</string>
+
+  <string name="hintProjectName">Project name</string>
+  <string name="hintContactName">Main contact name</string>
+  <string name="hintContactNumber">Phone number</string>
+</resources>

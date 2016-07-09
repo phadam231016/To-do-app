@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="buttonMain">Chương trình</string>
+  <string name="buttonSetting">Điều chỉnh</string>
+  <string name="buttonHistory">Lịch sử</string>
+  <string name="buttonAddProject">Thêm chương trình</string>
+  <string name="ApplicationName">TaskAndContact</string>
+
+  <string name="hintProjectName">Tên chương trình</string>
+  <string name="hintContactName">Tên người liên lạc chính</string>
+  <string name="hintContactNumber">Số điện thoại</string>
+</resources>
